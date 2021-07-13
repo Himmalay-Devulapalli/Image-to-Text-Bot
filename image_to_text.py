@@ -85,4 +85,3 @@ if __name__ == '__main__':
     print("running server")
     main()
 
-#https://stackoverflow.com/questions/58327383/how-to-recognize-text-with-colored-background-images
