@@ -48,7 +48,7 @@ def help_command(update,context):
 def main():
     try:
         # configure the updater with your bot token
-        updater = Updater('1828787854:AAFode-P3QUQrrcUFPGlq5JbxBWIJsr_rP4', use_context=True)
+        updater = Updater('Your Bot Token', use_context=True)
 
         # configure a dispatcher (responsible for receiving messages from bot )
         dp = updater.dispatcher
